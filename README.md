@@ -14,7 +14,15 @@ for n in {1..10}; do
 
 #### create_directories.sh
 
-Creates 10 directories with 10 files in each.
+Creates 5 directories with 10 files in each.
+Number of directories can be redefined in line:
+```
+for i in {1..5};
+```
+Number of files can be redefined in line:
+```
+for j in {1..10};
+```
 
 #### burnthewitch.sh
 Mostly for personal usage, cleans swap and shows memory and swap usage before and after
