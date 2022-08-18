@@ -16,6 +16,6 @@ for n in {1..10}; do
 
 Creates 10 directories with 10 files in each.
 
-### burnthewitch.sh
+#### burnthewitch.sh
 Mostly for personal usage, cleans swap and shows memory and swap usage before and after
 
